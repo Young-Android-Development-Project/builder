@@ -1,2 +1,2 @@
-# builder
-The No-Code Android App Builder for everyone
+# Builder - Where the real magic happens...
+### The No-Code Android App Builder for everyone
